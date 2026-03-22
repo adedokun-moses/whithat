@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Mar 2026 13:41:43 at https://coinnodesportal.vercel.app +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coinnodesportal.vercel.app -O1 "C:\Users\dell\Desktop\WHAT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/widgets.coingecko.com/coingecko-coin-price-marquee-widget.js (from https://coinnodesportal.vercel.app/)
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/assets.coingecko.com/coins/images/1/large/bitcoin7158.png?1547033579 (from https://coinnodesportal.vercel.app/)
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/assets.coingecko.com/coins/images/279/large/ethereum4471.png?1595348880 (from https://coinnodesportal.vercel.app/)
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/assets.coingecko.com/coins/images/738/large/eos-eos-logoe694.png?1547034481 (from https://coinnodesportal.vercel.app/)
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128749a.png?1605778731 (from https://coinnodesportal.vercel.app/)
+13:43:07	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/assets.coingecko.com/coins/images/2/large/litecoineb4a.png?1547033580 (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/assets.dapp.review/dapp-logo/2020.07.14/QDaZG2y2wamStcNBjZpQepzPzBaFPcnr.jpg (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dashboard-assets.dappradar.com/document/4096/uniswapv2-dapp-exchanges-ethereum-logo-166x166_0552bee1a0328b38b11450d49b17621e.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dappimg.com/media/image/app/bc25c0e92a2d48a3b7b2f04d1b11bcad.jpg (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dashboard-assets.dappradar.com/document/2503/ddex-dapp-exchanges-tron-logo-166x166_289e1530911891219a784bb0ad7dd146.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dappimg.com/media/image/app/53d1f0d3fc7e45ac8ca727a2636d843b.jpg (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/assets.bitdegree.org/crypto-tracker/dapp-logos/ethereum/kyber-logo.jpg (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/assets.bitdegree.org/crypto-tracker/dapp-logos/ethereum/sablier-logo.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/assets.bitdegree.org/crypto-tracker/dapp-logos/ethereum/synthetix-logo.jpg (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dashboard-assets.dappradar.com/document/4106/setprotocol-dapp-defi-ethereum-logo-166x166_9c65010c7e13b69fc5cab7a1beb607b2.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/dashboard-assets.dappradar.com/document/3340/aave-marketplaces-eth-logo-166x166_0690b9d8333567744f0fbea17a4d4e7b.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/kyber.network/app/images/rebrand/icon-chainsecurity.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/kyber.network/app/images/rebrand/icon-github.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/kyber.network/app/images/rebrand/icon-unslashed.png (from https://coinnodesportal.vercel.app/)
+13:46:15	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/app.mainnethubprotocol.com/kyber.network/app/images/rebrand/icon-bugbounty.png (from https://coinnodesportal.vercel.app/)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/www.coinnsnodes.live/ms-icon-310x310.PNG (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-57x57.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-60x60.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-72x72.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-76x76.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-114x114.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-120x120.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-144x144.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-152x152.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/apple-icon-180x180.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/android-icon-192x192.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/favicon-32x32.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/favicon-96x96.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/favicon-16x16.png (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/mainnetfaucet.live/_next/static/chunks/pages/_error-8353112a01355ec2.js (from https://coinnodesportal.vercel.app/manifest.html)
+13:47:06	Error: 	"Not Found" (404) at link https://coinnodesportal.vercel.app/cdn.jsdelivr.net/npm/%40emailjs/browser%403/dist/email.min.js (from https://coinnodesportal.vercel.app/import.html?wallet=)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 23 seconds : 148 links scanned, 111 files written (2244664 bytes overall) [1809993 bytes received at 5603 bytes/sec], 913994 bytes transferred using HTTP compression in 67 files, ratio 29%
+(36 errors, 0 warnings, 0 messages)
